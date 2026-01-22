@@ -1,11 +1,6 @@
 # Hello, my name is Neil 👋
 
-I'm a Frontend Software Developer 🦄
-
-## GitHub Stats
-![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrymun&show_icons=true&theme=cobalt)
-
-Here are some of the technologies that I use:
+I'm a Frontend Software Developer 🦄 Here are some of the technologies that I use:
 
 #### Languages
 
