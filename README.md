@@ -1,6 +1,6 @@
 # Hello, my name is Neil 👋
 
-I'm a Frontend Software Developer 🦄 Here are some of the technologies that I use:
+I'm a Software Developer 🦄 Here are some of the technologies that I use:
 
 #### Languages
 
